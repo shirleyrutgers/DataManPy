@@ -1,2 +1,0 @@
-# DataManPy
-Data Management Python
